@@ -11,8 +11,5 @@
   "description": "",
   "devDependencies": {
     "prettier": "^3.9.6"
-  },
-  "workspaces": [
-    "tools/*"
-  ]
+  }
 }
