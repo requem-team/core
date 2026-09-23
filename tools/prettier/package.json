@@ -1,0 +1,26 @@
+{
+  "name": "@requem/prettier",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Danya"
+  },
+  "license": "ISC",
+  "description": "Prettier Config",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "prettier": "^3.0.0"
+  },
+  "dependencies": {
+    "prettier" : "^3.0.0"
+  },
+  "exports": {
+    "prettier" : "./src/index.ts"
+  }
+}
