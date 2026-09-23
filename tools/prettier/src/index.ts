@@ -12,4 +12,5 @@ export const prettier: Prettier = {
    useTabs: false,
    endOfLine: 'lf',
    arrowParens: 'always'
+
 };
