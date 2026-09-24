@@ -1,5 +1,5 @@
 {
-  "name": "@requem/prettier",
+  "name": "@requeem/prettier",
   "type": "module",
   "version": "1.0.0",
   "scripts": {
@@ -17,10 +17,7 @@
   "peerDependencies": {
     "prettier": "^3.0.0"
   },
-  "dependencies": {
-    "prettier" : "^3.0.0"
-  },
   "exports": {
-    "prettier" : "./src/index.ts"
+    "./src" : "./src/index.ts"
   }
 }
