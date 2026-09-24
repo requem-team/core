@@ -1,8 +1,4 @@
-import type { Config } from 'prettier';
-
-export type Prettier = Config;
-
-export const prettier: Prettier = {
+export const prettier = {
    printWidth: 100,
    singleQuote: true,
    jsxSingleQuote: true,
@@ -12,5 +8,4 @@ export const prettier: Prettier = {
    useTabs: false,
    endOfLine: 'lf',
    arrowParens: 'always'
-
 };
