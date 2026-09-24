@@ -1,26 +1,28 @@
 {
-  "name": "@requem-team/prettier",
-  "type": "module",
-  "version": "1.0.4",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": ["prettier"],
-  "author": {
-    "name": "Danya"
-  },
-  "license": "ISC",
-  "description": "Prettier Config",
-  "publishConfig": {
-    "access": "public"
-  },
-  "peerDependencies": {
-    "prettier": "^3.0.0"
-  },
-  "dependencies": {
-    "prettier" : "^3.0.0"
-  },
-  "exports": {
-    "." : "./src/index.js"
-  }
+   "name": "@requem-team/prettier",
+   "type": "module",
+   "version": "1.0.4",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "keywords": [
+      "prettier"
+   ],
+   "author": {
+      "name": "Danya"
+   },
+   "license": "ISC",
+   "description": "Prettier Config",
+   "publishConfig": {
+      "access": "public"
+   },
+   "peerDependencies": {
+      "prettier": "^3.0.0"
+   },
+   "dependencies": {
+      "prettier": "^3.0.0"
+   },
+   "exports": {
+      ".": "./src/index.js"
+   }
 }
