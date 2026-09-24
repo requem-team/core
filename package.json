@@ -1,15 +1,26 @@
 {
-  "name": "requem-team/core",
-  "version": "1.0.2",
-  "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": ["prettier"],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "prettier": "^3.9.6"
-  }
+   "name": "@requem-team/core",
+   "version": "1.0.2",
+   "type": "module",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "keywords": [
+      "prettier"
+   ],
+   "author": {
+      "name": "requem",
+      "url": "https://github.com/requem-team"
+   },
+   "bugs": {
+      "url": "https://github.com/requem-team/core/issues"
+   },
+   "repository": {
+      "url": "https://github.com/requem-team/core"
+   },
+   "license": "ISC",
+   "description": "",
+   "devDependencies": {
+      "prettier": "^3.9.9"
+   }
 }

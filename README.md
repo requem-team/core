@@ -1,0 +1,4 @@
+# Requem Team
+
+## Инструменты
+- prettier
