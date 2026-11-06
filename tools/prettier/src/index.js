@@ -40,3 +40,5 @@ export const prettier = {
    // requirePragma: false,    // Требовать /** @format */ комментарий (по умолчанию: false)
    // insertPragma: false,     // Вставлять /** @format */ комментарий (по умолчанию: false)
 }
+
+export default prettier
